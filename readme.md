@@ -1,0 +1,3 @@
+- Hello World 👋
+- I am Lamak Shahiwala 👨🏼‍🎓
+- All of my Projects are available at - https://github.com/lamak-shahiwala 💻
